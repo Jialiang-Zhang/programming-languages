@@ -8,6 +8,7 @@
 
 ## 文件导航
 
+- **[`exam-reference/`](exam-reference/README.md)：考场提分手册、最后15分钟自检卡和经过编译检查的 C++ 模板。**
 - [`all-problems.md`](all-problems.md)：215 道题总目录，按第1～5题分组；含主算法族、知识点、做题方法和标签置信度。
 - [`analysis-by-position.md`](analysis-by-position.md)：第1～5题的历史规律、标准做题流程、易错点、训练顺序与考场策略。
 - [`forecast-csp43.md`](forecast-csp43.md)：第43次题型方向拟合、滚动回测与预测边界。
